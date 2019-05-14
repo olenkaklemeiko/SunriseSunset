@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SunriseSunset</string>
+  <string name="sunrise">Sunrise</string>
+  <string name="sunset">Sunset</string>
+  <string name="change_location">Pick location</string>
+  <string name="lviv">Lviv</string>
+</resources>
